@@ -1,5 +1,5 @@
 ### Hi there,
-I am Ngoc, a software engineer. At the moment
+I am Ngoc, a software engineer. At the moment, I am trying to learn well about Ruby as well as Rails.
 
 ### Expertise
 - Ruby on rails
