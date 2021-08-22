@@ -9,5 +9,5 @@ I am Ngoc, a software engineer. At the moment, I am working for a company about 
 
 ### How to reach me 📩: 
 - Gmail: ngocbui.se@gmail.com
-- Github: https://github.com/xuanngoc
-- Github: https://github.com/ngocbuildxuan
+- Github https://github.com/xuanngoc
+- Githubb: https://github.com/ngocbuildxuan
