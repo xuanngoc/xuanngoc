@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I am Ngoc, a software engineer. At the moment, I am working for a company about image stock.
+I am Ngoc, a software engineer.
 
 ### Expertise 🌏
 - Ruby on rails
