@@ -2,9 +2,9 @@
 I am Ngoc, a software engineer.
 
 ### Expertise 🌏
-- Ruby on rails
-- NodeJS, Typescript
-- Spring Boot
+- Ruby on rails, NodeJS, ReactJS, NextJS
+- Docker, Kubernetes
+- AWS, GCS
 
 ### How to reach me 📩: 
 - Gmail: ngocbui.se@gmail.com
