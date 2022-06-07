@@ -4,7 +4,10 @@ I am Ngoc, a software engineer.
 ### Expertise 🌏
 - Ruby on rails, NodeJS, ReactJS, NextJS
 - Docker, Kubernetes
-- AWS, GC
+- Amazon Web Service, Google Cloud
+
+### Contribution activities
+  - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped): [#606606](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/60668)
 
 ### How to reach me 📩: 
 - Gmail: ngocbui.se@gmail.com
