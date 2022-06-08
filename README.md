@@ -6,8 +6,8 @@ I am Ngoc, a software engineer.
 - Docker, Kubernetes
 - Amazon Web Service, Google Cloud
 
-### Contribution activities
-  - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped): [#606606](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/60668)
+### Contribution activities 👐
+  - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped): [#606606](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/60668), [#60681](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/60681)
 
 ### How to reach me 📩: 
 - Gmail: ngocbui.se@gmail.com
