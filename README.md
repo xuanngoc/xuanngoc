@@ -2,7 +2,7 @@
 I am Ngoc, a software engineer.
 
 ### Expertise 🌏
-- Ruby on rails, NodeJS, ReactJS, NextJS
+- Django, FastAPI, Ruby on rails, NodeJS, ReactJS, NextJS
 - MySQL, MongoDB, Elasticsearch, Redis
 - Docker, Kubernetes
 - Amazon Web Service, Google Cloud
