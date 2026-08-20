@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I am Ngoc, a software engineer.
+I am Ngoc Bui, a software engineer.
 
 ### Expertise 🌏
 - Django, FastAPI, Ruby on rails, NodeJS, ReactJS, NextJS
